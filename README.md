@@ -5,7 +5,7 @@ This project aims to compare various machine learning models on a given dataset,
 ## Example of project output  
 ![image](https://github.com/user-attachments/assets/d922f9c0-bb89-48a5-97e1-5fd5af294477)
 
-## Overview (Description of Content) 
+## Content Overview
 
 In this repository, you'll find:
 
