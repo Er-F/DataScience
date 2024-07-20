@@ -3,9 +3,7 @@
 This project aims to compare various machine learning models on a given dataset, providing insights into their performance and suitability for different tasks.
 
 ## Example of project output  
-
-<img src="https://github.com/user-attachments/assets/d922f9c0-bb89-48a5-97e1-5fd5af294477" width="600"  />
-
+![image](https://github.com/user-attachments/assets/d922f9c0-bb89-48a5-97e1-5fd5af294477)
 
 ## Content Overview
 
